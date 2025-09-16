@@ -39,7 +39,7 @@
    
 		<dependency>
     		<groupId>org.mariadb.jdbc</groupId>
-    		<artifactId>maria-java-client</artifactId>
+    		<artifactId>mariadb-java-client</artifactId>
     		<scope>runtime</scope>
         </dependency>
         
